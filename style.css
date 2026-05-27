@@ -370,3 +370,43 @@ html{
   background: #b57ad3;
 
 }
+
+#contact{
+  max-width:1200px;
+  width:100%;
+
+  margin:90px auto;
+
+  padding:60px;
+
+  border-radius:32px;
+
+  background:rgba(255,255,255,0.55);
+
+  box-shadow:0 15px 35px rgba(80,40,90,0.16);
+}
+
+.contact-form{
+  margin-top:35px;
+}
+
+.contact-form .field{
+  margin-bottom:25px;
+}
+
+.contact-form input,
+.contact-form textarea{
+  width:100%;
+
+  padding:18px 20px;
+
+  border-radius:16px;
+
+  border:none;
+
+  font-size:1.1rem;
+
+  background:rgba(255,255,255,0.75);
+
+  color:#222;
+}
