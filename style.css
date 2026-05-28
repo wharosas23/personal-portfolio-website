@@ -150,6 +150,9 @@ html{
   position: static;
   transform: none;
   flex-shrink: 0;
+  width:30%;
+  height:100%;
+  object-fit:cover;
 }
 
 .profile-image {
