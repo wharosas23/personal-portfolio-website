@@ -174,7 +174,8 @@ html{
 .btn.primary{
   background:#8e44ad;
   color:white;
-  box-shadow:0 8px 20px rgba(108,92,231,0.18)
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+
 }
 
 .button-group{
